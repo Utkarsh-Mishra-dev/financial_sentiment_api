@@ -87,10 +87,6 @@ is running.
 
    Or visit `http://127.0.0.1:8000/docs` for an interactive interface.
 
-## Deployment
-
-Deployed live on Render: `<add your live URL here after deploying>`
-
 ## Model
 
 - **Vectorizer:** `TfidfVectorizer(ngram_range=(1,2), min_df=2, max_features=20000)`
@@ -101,3 +97,4 @@ Deployed live on Render: `<add your live URL here after deploying>`
 ## Deployment
 
 Deployed live on Render: https://financial-sentiment-api-vd9k.onrender.com
+For Financial Sentiment Classifier API : https://financial-sentiment-api-vd9k.onrender.com/docs
