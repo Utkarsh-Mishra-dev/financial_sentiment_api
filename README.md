@@ -98,3 +98,6 @@ Deployed live on Render: `<add your live URL here after deploying>`
 - **Test set performance:** 78.3% accuracy, 0.754 macro F1
   (see the main FinBERT project repo for full evaluation and comparison
   against a fine-tuned Transformer model).
+## Deployment
+
+Deployed live on Render: https://financial-sentiment-api-vd9k.onrender.com
